@@ -35,81 +35,73 @@ MySQL Database
 7. The student can view the response and request status.
 
 🛠️ Technologies Used
-  Frontend
+  -Frontend
 
-  React
+  -React
 
-  Tailwind CSS
+  -Tailwind CSS
 
-  XML generation
+  -XML generation
 
-  Middleware
+  -Middleware
 
-  SOAP Web Services
+  -SOAP Web Services
 
-  JAXB (Java Architecture for XML Binding)
+  -JAXB (Java Architecture for XML Binding)
 
-  XSD validation
+  -XSD validation
 
-  Backend
+  -Backend
 
-  Spring Boot (REST API)
+  -Spring Boot (REST API)
 
-  MySQL Database
+  -MySQL Database
 
-  AI Integration
+  -AI Integration
 
-  Gemini API for assisting in request drafting
+  -Gemini API for assisting in request drafting
 
 👥 User Roles
 Student
 
-  Submit structured requests
+  -Submit structured requests
 
-  Track request status
+  -Track request status
 
-  View administrator responses
+  -View administrator responses
 
 Administrator
 
-  View incoming student requests
+  -View incoming student requests
 
-  Respond to requests
+  -Respond to requests
 
-  Update request status
+  -Update request status
 
 🚀 Key Features
 
-  XML-based request submission
+  -XML-based request submission
 
-  Strict schema validation
+  -Strict schema validation
 
-  SOAP-to-REST integration
+  -SOAP-to-REST integration
 
-  Role-based request handling
+  -Role-based request handling
 
-  Scalable microservice architecture
+  -Scalable microservice architecture
 
-  AI-assisted request drafting
+  -AI-assisted request drafting
 
 📦 Future Enhancements
 
-  Authentication and authorization (JWT / OAuth2)
+  -Authentication and authorization (JWT / OAuth2)
 
-  Email or in-app notifications
+  -Email or in-app notifications
 
-  Request history and analytics
+  -Request history and analytics
 
-  Docker and Kubernetes deployment
+  -Docker and Kubernetes deployment
 
 📄 License
 
-  This project is developed for academic and educational purposes.
-
-🙌 Acknowledgments
-
-  Spring Boot & SOAP Web Services
-
-  React & Tailwind CSS
-
-  Gemini AI API
+  -This project is developed for academic and educational purposes.
