@@ -16,23 +16,23 @@ MySQL Database
 
 🔄 Request Lifecycle
 
-The student creates a request through the frontend.
+1. The student creates a request through the frontend.
 
-The frontend generates a structured XML document.
+2. The frontend generates a structured XML document.
 
-The SOAP service:
+3. The SOAP service:
 
-Validates the XML using XSD schemas
+   -Validates the XML using XSD schemas
 
-Converts XML to Java objects using JAXB
+   -Converts XML to Java objects using JAXB
 
-Valid data is forwarded to the REST API.
+4. Valid data is forwarded to the REST API.
 
-The REST API applies business logic and stores the request in MySQL.
+5. The REST API applies business logic and stores the request in MySQL.
 
-The administrator reviews and responds to the request.
+6. The administrator reviews and responds to the request.
 
-The student can view the response and request status.
+7. The student can view the response and request status.
 
 🛠️ Technologies Used
 Frontend
